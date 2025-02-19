@@ -1,0 +1,188 @@
+.navbar{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+
+}
+#div1{
+    color:rgb(74, 74, 127);
+
+}
+#div2{
+    display:flex;
+    align-items: center;
+    column-gap: 30px;
+
+}
+#div2 > a{
+    text-decoration:none;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+#contact{
+    
+    padding: 10px 40px ;
+    background-color: rgb(48, 48, 82);
+    font-size: 20px;
+    color: white;
+    border-radius:5px;
+    box-shadow: 5px 5px 8px rgb(87, 81, 81);
+}
+
+.page{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px 10px;
+   
+}
+.page1{
+    width: 50%;
+    padding: 20px 10px;
+}
+.page > img{
+    width: 40%;
+}
+.page1 > h1{
+    color: rgb(13, 13, 84); 
+    
+    font-size: 56px;
+}
+.page1 > p{
+    font-size: 1.3em;
+    color: rgb(13, 13, 84) ;
+}
+.page2{
+    display: flex;
+    
+}
+
+.page1> .page2 > p{
+    background-color:  rgb(23, 23, 48) ;
+    color: white;
+    font-size: 20px;
+    padding: 10px 35px;
+    border-radius: 5px;
+   margin:  10px;
+   box-shadow: 5px 5px 8px rgb(87, 81, 81);
+}
+.pg{
+    padding: 40px;
+    width: 30%;
+    flex-wrap: wrap;
+     justify-content: center;
+     display: flex;
+     padding: 10px 10px;
+}
+.pg1 > h1{
+    color: rgb(13, 13, 84);
+    font-size: 56px;
+    padding: 0;
+}
+.pg1 > p{
+    font-size: 1.3em;
+    color: rgb(13, 13, 84) ;
+    width: 100%;
+    padding: 30px;
+
+}
+.pg2{
+    padding: 1px 50px ;
+    background-color: rgb(48, 48, 82);
+    font-size: 20px;
+    color: white;
+    border-radius:5px;
+    box-shadow: 5px 5px 8px rgb(87, 81, 81);
+    display: flex;
+}
+
+
+
+
+.kd{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5px 10px;
+   
+}
+.kd1{
+    width: 50%;
+    padding: 20px 10px;
+}
+.kd > img{
+    width: 40%;
+}
+.kd1 > h1{
+    color: rgb(13, 13, 84); 
+    
+    font-size: 56px;
+}
+.kd1 > p{
+    font-size: 1.3em;
+    color: rgb(13, 13, 84) ;
+}
+
+
+
+
+
+
+.hi{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5px 10px;
+   
+}
+.hi1{
+    width: 50%;
+    padding: 20px 10px;
+}
+.hi > img{
+    width: 40%;
+}
+.hi1 > h1{
+    color: rgb(13, 13, 84); 
+    
+    font-size: 56px;
+}
+.hi1 > p{
+    font-size: 1.3em;
+    color: rgb(13, 13, 84) ;
+}
+
+
+
+
+
+
+
+.bye{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5px 10px;
+   
+}
+.bye1{
+    width: 50%;
+    padding: 20px 10px;
+}
+.bye > img{
+    width: 40%;
+}
+.bye > h1{
+    color: rgb(13, 13, 84); 
+    
+    font-size: 56px;
+}
+.bye > p{
+    font-size: 1.3em;
+    color: rgb(13, 13, 84) ;
+}
+
